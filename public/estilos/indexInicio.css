@@ -1,0 +1,30 @@
+body{
+    background-color: #2AA5FE; 
+    margin: 0;
+    padding: 0;
+}
+.button{
+    background-color: white;
+    color: black;
+    padding: 15px 65px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.button:hover{
+    background-color: #3E3E3E;
+    color: white;
+}
+#inicio{
+    margin-top: 18%;
+    text-align: center;
+}
+#inicio h1{
+    font-family: sans-serif;
+    font-size: 48px;
+}
+    
